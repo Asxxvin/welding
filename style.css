@@ -1,0 +1,53 @@
+#ash{
+  padding: 2px;
+  margin-top: 2px;
+  border: 5px;
+  color: rgb(181, 186, 191);
+  background-color: rgb(0, 0, 0);
+}
+#top{
+  margin-top: -20px;
+  background-color: rgb(29, 26, 26);
+}
+#top1{
+  color: rgb(197, 199, 201);
+}
+#top4{
+  padding-top: -500px;
+  text-align: center;
+}
+#black{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+#tpo{
+  background-color: black;
+  border: 1px;
+  margin: auto;
+  border-radius: 100px;
+
+}
+body{
+  background-color: black;
+}
+#video{
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  position: absolute;
+}
+
+#as{
+  background-color: rgb(242, 16, 16);
+
+}
+
+#asd{
+   color: azure;
+
+}
+
+#form{
+   text-align: center;
+}
